@@ -1,6 +1,6 @@
 function add(a, b) {
-    const cccdddeee = a+b
-    return a + b + cccdddeee;
+    const fff = a+b
+    return a + b + fff;
 }
 
 console.log(add(1, 2));
